@@ -1,8 +1,7 @@
 ## LSOTB-TIR:  A Large-Scale High-Diversity Thermal Infrared Object Tracking Benchmark 
 This toolkit is used to evaluate general thermal infrared (TIR) trackers on the TIR object tracking benchmark, LSOTB-TIR, which consists of a large-scale training dataset and an evaluation dataset with a total of 1,400 TIR image sequences and more than 600K frames. To evaluate a TIR tracker on different attributes, we define 4 scenario attributes and 12 challenge attributes in the evaluation dataset. By releasing LSOTB-TIR, we encourage the community to develop deep learning based TIR trackers and evaluate them fairly and comprehensively. 
-[Paper](),[Supplementary materials]()
+[Paper](https://www.researchgate.net/publication/343384216_LSOTB-TIR_A_Large-Scale_High-Diversity_Thermal_Infrared_Object_Tracking_Benchmark), [Supplementary materials](https://www.researchgate.net/publication/343384184_LSOTB-TIR-supplementary_materialspdf)
 ![Alt text](./example.png)
-
 ## News
 * Our paper is accepted by ACM Multimedia Conference 2020. 
 ## Characteristics
@@ -11,7 +10,7 @@ This toolkit is used to evaluate general thermal infrared (TIR) trackers on the 
 * Contain both training and evaluation data sets.
 * Provide 30+ tracker's evaluation results.
 ## Download dataset and evaluation results
-* Download the **training dataset** from [here]() and **evaluation dataset** from [here](https://mega.nz/file/k1hH0LKQ#SHFtKtph36TSEB1Mevw1Wymk2Rh5Hg7V4ZYwGY_V-IU).
+* Download the **training dataset** from [here](https://mega.nz/folder/gkwCHQwB#xiUmcpLnw98OzKmv_BRU0g) and **evaluation dataset** from [here](https://mega.nz/file/k1hH0LKQ#SHFtKtph36TSEB1Mevw1Wymk2Rh5Hg7V4ZYwGY_V-IU).
 * Download 30+ tracker's evaluation raw results from [here](https://mega.nz/file/8t4hmbbR#-j4-LNSyKTuYgiZo1skB3i5sWOWagXhykgQm1_az-vs).
 ## Usage
 1. Download the evaluation dataset and put it into the `sequences` folder.
