@@ -10,7 +10,7 @@ This toolkit is used to evaluate general thermal infrared (TIR) trackers on the 
 * Contain both training and evaluation data sets.
 * Provide 30+ tracker's evaluation results.
 ## Download dataset and evaluation results
-* Download the **training dataset** from [here](https://mega.nz/folder/gkwCHQwB#xiUmcpLnw98OzKmv_BRU0g) and **evaluation dataset** from [here](https://mega.nz/file/k1hH0LKQ#SHFtKtph36TSEB1Mevw1Wymk2Rh5Hg7V4ZYwGY_V-IU).
+* Download the **training dataset** from [here](https://mega.nz/folder/gkwCHQwB#xiUmcpLnw98OzKmv_BRU0g) and **evaluation dataset** from [here](https://mega.nz/file/k1hH0LKQ#SHFtKtph36TSEB1Mevw1Wymk2Rh5Hg7V4ZYwGY_V-IU) or download all dataset from [Baidu Pan](https://pan.baidu.com/s/18VQ6Fz-QUYEEyQOcj9Ja3w#list/path=%2F), code:dr3i.
 * Download 30+ tracker's evaluation raw results from [here](https://mega.nz/file/8t4hmbbR#-j4-LNSyKTuYgiZo1skB3i5sWOWagXhykgQm1_az-vs).
 ## Usage
 1. Download the evaluation dataset and put it into the `sequences` folder.
@@ -23,7 +23,7 @@ This toolkit is used to evaluate general thermal infrared (TIR) trackers on the 
 ### TIR trackers
 * **MMNet.**  Liu Q, et al. Multi-task driven feature model for thermal infrared tracking, AAAI, 2020. [[Github]](https://github.com/QiaoLiuHit/MMNet)
 * **ECO-stir.**  Zhang L, et al. Synthetic data generation for end-to-end thermal infrared tracking, TIP, 2019. [[Github]](https://github.com/zhanglichao/generatedTIR_tracking)
-*  **MLSSNet.** Liu Q, et al, Learning Deep Multi-Level Similarity for Thermal Infrared Object Tracking, TMM, 2020. [[Paper]](https://arxiv.org/abs/1906.03568)
+*  **MLSSNet.** Liu Q, et al, Learning Deep Multi-Level Similarity for Thermal Infrared Object Tracking, TMM, 2020. [[Github]](https://github.com/QiaoLiuHit/MLSSNet)
 *  **HSSNet.**  Li X, et al, Hierarchical spatial-aware Siamese network for thermal infrared object tracking, KBS, 2019.[[Github]](https://github.com/QiaoLiuHit/HSSNet)
 *  **MCFTS.** Liu Q, et al, Deep convolutional neural networks for thermal infrared object tracking, KBS, 2017. [[Github]](https://github.com/QiaoLiuHit/MCFTS) 
 ### RGB trackers
