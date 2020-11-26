@@ -3,15 +3,16 @@ This toolkit is used to evaluate general thermal infrared (TIR) trackers on the 
 [Paper](https://www.researchgate.net/publication/343384216_LSOTB-TIR_A_Large-Scale_High-Diversity_Thermal_Infrared_Object_Tracking_Benchmark), [Supplementary materials](https://www.researchgate.net/publication/343384184_LSOTB-TIR-supplementary_materialspdf)
 ![Alt text](./example.png)
 ## News
-* Our paper is accepted by ACM Multimedia Conference 2020. 
+* 2020-08, Our paper is accepted by ACM Multimedia Conference 2020. 
+* 2020-11, We update the evaluation dataset because we miss a test sequence 'cat_D_001'.
 ## Characteristics
 * Large-scale: 1400 TIR sequences, 600K+ frames, 730K+ bounding boxes.
 * High-diversity: 12 challenges, 4 scenario, 47 object classes.
 * Contain both training and evaluation data sets.
 * Provide 30+ tracker's evaluation results.
 ## Download dataset and evaluation results
-* Download the **training dataset** from [here](https://mega.nz/folder/gkwCHQwB#xiUmcpLnw98OzKmv_BRU0g) and **evaluation dataset** from [here](https://mega.nz/file/k1hH0LKQ#SHFtKtph36TSEB1Mevw1Wymk2Rh5Hg7V4ZYwGY_V-IU) or download all dataset from [Baidu Pan](https://pan.baidu.com/s/18VQ6Fz-QUYEEyQOcj9Ja3w#list/path=%2F), code:dr3i.
-* Download 30+ tracker's evaluation raw results from [here](https://mega.nz/file/8t4hmbbR#-j4-LNSyKTuYgiZo1skB3i5sWOWagXhykgQm1_az-vs).
+* Download the dataset and 30+ tracker's evaluation raw results from [Dubox](https://dubox.com/s/1RFETNy0zHjvZPWXlgZNjgA) using the password: 2fad, if you are out of china. 
+* Download the dataset and 30+ tracker's evaluation raw results from [Baidu Pan](https://pan.baidu.com/s/18VQ6Fz-QUYEEyQOcj9Ja3w#list/path=%2F) using the password: dr3i, if you are in china.
 ## Usage
 1. Download the evaluation dataset and put it into the `sequences` folder.
 2. Download the evaluation raw results and put them into the `results`  folder.
