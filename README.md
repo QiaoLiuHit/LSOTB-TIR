@@ -11,7 +11,7 @@ This toolkit is used to evaluate general thermal infrared (TIR) trackers on the 
 * Contain both training and evaluation data sets.
 * Provide 30+ tracker's evaluation results.
 ## Download dataset and evaluation results
-* Download the dataset and 30+ tracker's evaluation raw results from [Dubox](https://dubox.com/s/1RFETNy0zHjvZPWXlgZNjgA) using the password: 2fad, if you are out of china. 
+* Download the dataset and 30+ tracker's evaluation raw results from [Dubox](https://dubox.com/s/1RFETNy0zHjvZPWXlgZNjgA) using the password: 2fad, if you are not in china. 
 * Download the dataset and 30+ tracker's evaluation raw results from [Baidu Pan](https://pan.baidu.com/s/18VQ6Fz-QUYEEyQOcj9Ja3w#list/path=%2F) using the password: dr3i, if you are in china.
 ## Usage
 1. Download the evaluation dataset and put it into the `sequences` folder.
