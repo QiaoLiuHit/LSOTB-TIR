@@ -22,6 +22,7 @@ This toolkit is used to evaluate general thermal infrared (TIR) trackers on the 
 ![Alt text](./figs/results_OPE_all/results.png)
 ## Trackers and codes
 ### TIR trackers
+* **CMD-DiMP.** Sun JX, et al. Unsupervised Cross-Modal Distillation for Thermal Infrared Tracking, ACM MM, 2021. [[Github]](https://github.com/zhanglichao/cmdTIRtracking)
 * **MMNet.**  Liu Q, et al. Multi-task driven feature model for thermal infrared tracking, AAAI, 2020. [[Github]](https://github.com/QiaoLiuHit/MMNet)
 * **ECO-stir.**  Zhang L, et al. Synthetic data generation for end-to-end thermal infrared tracking, TIP, 2019. [[Github]](https://github.com/zhanglichao/generatedTIR_tracking)
 *  **MLSSNet.** Liu Q, et al, Learning Deep Multi-Level Similarity for Thermal Infrared Object Tracking, TMM, 2020. [[Github]](https://github.com/QiaoLiuHit/MLSSNet)
