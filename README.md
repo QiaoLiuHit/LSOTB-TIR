@@ -5,6 +5,7 @@ This toolkit is used to evaluate general thermal infrared (TIR) trackers on the 
 ## News
 * 2020-08, Our paper is accepted by ACM Multimedia Conference 2020. 
 * 2020-11, We update the evaluation dataset because we miss a test sequence 'cat_D_001'.
+* 2022-10, We provide a 'LSOTB-TIR.json' file at here [Baidu](https://pan.baidu.com/s/1hj1P7_R9Wv6HbpQQV_28MA?pwd=y0h6) or [Dubox](https://terabox.com/s/1EjRNnT9VT4boUcZj9vvEQA) for evaluating on the [pysot](https://github.com/STVIR/pysot) toolkit.
 ## Characteristics
 * Large-scale: 1400 TIR sequences, 600K+ frames, 730K+ bounding boxes.
 * High-diversity: 12 challenges, 4 scenario, 47 object classes.
