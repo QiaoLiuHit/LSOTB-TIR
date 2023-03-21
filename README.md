@@ -6,7 +6,7 @@ This toolkit is used to evaluate general thermal infrared (TIR) trackers on the 
 * 2020-08, Our paper is accepted by ACM Multimedia Conference 2020. 
 * 2020-11, We update the evaluation dataset because we miss a test sequence 'cat_D_001'.
 * 2022-10, We provide a 'LSOTB-TIR.json' file at here [Baidu](https://pan.baidu.com/s/1hj1P7_R9Wv6HbpQQV_28MA?pwd=y0h6) or [Dubox](https://terabox.com/s/1EjRNnT9VT4boUcZj9vvEQA) for evaluating on the [pysot](https://github.com/STVIR/pysot) toolkit.
-* 2023-01, Our extended paper is accepted by TNNLS.[paper](https://www.researchgate.net/publication/367382176_LSOTB-TIR_A_Large-Scale_High-Diversity_Thermal_Infrared_Single_Object_Tracking_Benchmark) [evaluation dataset](https://pan.baidu.com/s/1kTNEJHSm-vo128pV2k9uFg?pwd=9kb8)
+* 2023-01, Our extended paper is accepted by TNNLS.[paper](https://www.researchgate.net/publication/367382176_LSOTB-TIR_A_Large-Scale_High-Diversity_Thermal_Infrared_Single_Object_Tracking_Benchmark), [evaluation dataset](https://pan.baidu.com/s/1kTNEJHSm-vo128pV2k9uFg?pwd=9kb8)
 ## Characteristics
 * Large-scale: 1400 TIR sequences, 600K+ frames, 730K+ bounding boxes.
 * High-diversity: 12 challenges, 4 scenario, 47 object classes.
@@ -16,7 +16,7 @@ This toolkit is used to evaluate general thermal infrared (TIR) trackers on the 
 ## Download dataset and evaluation results
 * Download the dataset and 30+ tracker's evaluation raw results from [Dubox](https://dubox.com/s/1RFETNy0zHjvZPWXlgZNjgA) using the password: 2fad, if you are not in china. 
 * Download the dataset and 30+ tracker's evaluation raw results from [Baidu Pan](https://pan.baidu.com/s/18VQ6Fz-QUYEEyQOcj9Ja3w#list/path=%2F) using the password: dr3i, if you are in china.
-* Download the evaluation dataset of the TNNLS version from [Baidu Pan](https://pan.baidu.com/s/1kTNEJHSm-vo128pV2k9uFg?pwd=9kb8)
+* Download the evaluation dataset of the TNNLS version from [Baidu Pan](https://pan.baidu.com/s/1kTNEJHSm-vo128pV2k9uFg?pwd=9kb8).
 ## Usage
 1. Download the evaluation dataset and put it into the `sequences` folder.
 2. Download the evaluation raw results and put them into the `results`  folder.
