@@ -2,6 +2,16 @@
 This toolkit is used to evaluate general thermal infrared (TIR) trackers on the TIR object tracking benchmark, LSOTB-TIR, which consists of a large-scale training dataset and an evaluation dataset with a total of 1,400 TIR image sequences and more than 600K frames. To evaluate a TIR tracker on different attributes, we define 4 scenario attributes and 12 challenge attributes in the evaluation dataset. By releasing LSOTB-TIR, we encourage the community to develop deep learning based TIR trackers and evaluate them fairly and comprehensively. 
 [Paper](https://www.researchgate.net/publication/343384216_LSOTB-TIR_A_Large-Scale_High-Diversity_Thermal_Infrared_Object_Tracking_Benchmark), [Supplementary materials](https://www.researchgate.net/publication/343384184_LSOTB-TIR-supplementary_materialspdf)
 ![Alt text](./example.png)
+
+## License and Usage
+This repository contains both source code and dataset-related materials.
+The source code, scripts, and software tools in this repository are released under the MIT License, as specified in the `LICENSE` file.
+However, the LSOTB-TIR dataset, including but not limited to thermal infrared images, annotations, metadata, benchmark splits, and related data files, is not covered by the MIT License.
+The LSOTB-TIR dataset is provided free of charge for academic research and non-commercial use only. Any commercial use, including but not limited to training, fine-tuning, evaluating, or developing object tracking or computer vision models for commercial products or services, requires prior written authorization from the dataset owners.
+For commercial licensing inquiries, please contact:
+Dr. Liu
+Email: [liuqiao.hit@gmail.com](mailto:liuqiao.hit@gmail.com)
+
 ## News
 * 2020-08, Our paper is accepted by ACM Multimedia Conference 2020. 
 * 2020-11, We update the evaluation dataset because we miss a test sequence 'cat_D_001'.
