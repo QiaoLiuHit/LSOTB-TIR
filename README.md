@@ -36,12 +36,27 @@ Email: [liuqiao.hit@gmail.com](mailto:liuqiao.hit@gmail.com)
 ![Alt text](./figs/results_OPE_all/results.png)
 ## Trackers and codes
 ### TIR trackers
-* **CMD-DiMP.** Sun J, et al. Unsupervised Cross-Modal Distillation for Thermal Infrared Tracking, ACM MM, 2021. [[Github]](https://github.com/zhanglichao/cmdTIRtracking)
-* **MMNet.**  Liu Q, et al. Multi-task driven feature model for thermal infrared tracking, AAAI, 2020. [[Github]](https://github.com/QiaoLiuHit/MMNet)
-* **ECO-stir.**  Zhang L, et al. Synthetic data generation for end-to-end thermal infrared tracking, TIP, 2019. [[Github]](https://github.com/zhanglichao/generatedTIR_tracking)
-*  **MLSSNet.** Liu Q, et al, Learning Deep Multi-Level Similarity for Thermal Infrared Object Tracking, TMM, 2020. [[Github]](https://github.com/QiaoLiuHit/MLSSNet)
-*  **HSSNet.**  Li X, et al, Hierarchical spatial-aware Siamese network for thermal infrared object tracking, KBS, 2019.[[Github]](https://github.com/QiaoLiuHit/HSSNet)
-*  **MCFTS.** Liu Q, et al, Deep convolutional neural networks for thermal infrared object tracking, KBS, 2017. [[Github]](https://github.com/QiaoLiuHit/MCFTS) 
+* **DDAT.**  Liu Q, et al. Unsupervised Domain Adaptive Thermal Infrared Tracking, TMM, 2026. [[Code]](https://github.com/QiaoLiuHit/DDAT)
+* **ViT-TIR.** Ma S, et al. Vision-Inspired Transformer-Based Thermal Infrared Target Tracking Framework for Internet of Things, IoT, 2026.
+* **ASMTrack.** Ma S, et al. ASMTrack: Thermal Infrared Target Tracking Network Based on Atkinson-Shiffrin Memory Model, TITS, 2025.
+* **FFTR.** Liao D, et al. Fine-Grained Feature and Template Reconstruction for TIR Object Tracking, IEEE TCSVT, 2025.
+* **MGTrack.** Ma S, et al. Transformer-Based Memory Guided Thermal Infrared Target Tracking Framework for Traffic Assistance, IEEE TITS, 2025.
+* **SGSiamAttn.** Li X, et al. Saliency Guided Siamese Attention Network for Infrared Ship Target Tracking, TIV, 2025.
+* **EHDA.** Li Q, et al. Efficient Hierarchical Domain Adaptive Thermal Infrared Tracking, ICASSP, 2025.
+* **ReFocus.** Lai S, et al. Refocus the Attention for Parameter-Efficient Thermal Infrared Object Tracking, IEEE TNNLS, 2025.[[Code]](https://github.com/laisimiao/ReFocus_TIR_Tracking)
+* **MGAM.** Gao P, et al. Learning multi-level graph attentional representation for thermal infrared object tracking, EAAI, 2025.
+* **NLMTrack.** Yan M, et al. Coordinate-aware thermal infrared tracking via natural language modeling, ESWA, 2025.[[Code]](https://github.com/ELOESZHANG/NLMTrack)
+* **LDFG.** Yang C, et al. Learning diverse fine-grained features for thermal infrared tracking, ESWA, 2024.
+* **STFNet.** Qi M, et al. Exploring reliable infrared object tracking with spatio-temporal fusion transformer, KBS, 2024.
+* **ASTM.** Yuan D, et al. Aligned Spatial-Temporal Memory Network for Thermal Infrared Target Tracking, IEEE TCSII, 2023.
+* **RMCM.** Zha Y, et al. Reversible Modal Conversion Model for Thermal Infrared Tracking, IEEE MultiMedia, 2023.
+* **CMCD.** Li H, et al. Efficient thermal infrared tracking with cross-modal compress distillation, EAAI, 2023.
+* **CMD-DiMP.** Sun J, et al. Unsupervised Cross-Modal Distillation for Thermal Infrared Tracking, ACM MM, 2021. [[Code]](https://github.com/zhanglichao/cmdTIRtracking)
+* **MMNet.**  Liu Q, et al. Multi-task driven feature model for thermal infrared tracking, AAAI, 2020. [[Code]](https://github.com/QiaoLiuHit/MMNet)
+* **ECO-stir.**  Zhang L, et al. Synthetic data generation for end-to-end thermal infrared tracking, TIP, 2019. [[Code]](https://github.com/zhanglichao/generatedTIR_tracking)
+*  **MLSSNet.** Liu Q, et al, Learning Deep Multi-Level Similarity for Thermal Infrared Object Tracking, TMM, 2020. [[Code]](https://github.com/QiaoLiuHit/MLSSNet)
+*  **HSSNet.**  Li X, et al, Hierarchical spatial-aware Siamese network for thermal infrared object tracking, KBS, 2019.[[Code]](https://github.com/QiaoLiuHit/HSSNet)
+*  **MCFTS.** Liu Q, et al, Deep convolutional neural networks for thermal infrared object tracking, KBS, 2017. [[Code]](https://github.com/QiaoLiuHit/MCFTS) 
 ### RGB trackers
 * **ECO.** Danelljan M, et al, ECO: efficient convolution operators for tracking, CVPR, 2017. [[Github]](https://github.com/martin-danelljan/ECO)
 *  **DeepSTRCF.** Li F et al, Learning spatial-temporal regularized correlation filters for visual tracking, CVPR, 2018. [[Github]](https://github.com/lifeng9472/STRCF)
